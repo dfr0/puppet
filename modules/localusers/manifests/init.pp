@@ -4,7 +4,7 @@ class localusers {
 		uid        => '603',
 		shell      => '/bin/bash',
 		home       => '/home/david',
-		gid        => 'wheel',
+		gid        => 'wheel, utiec',
 		managehome => true,
 		password   => '$6$k7McrV/E$mXuSYQFk2zbeY0lRnCpx2b.mCsbGWvl//qX0GQx4Z2erbSs./tpXoUqoAGwufMzfod71zcs1Mgm09x.gm65yU1',
 	}
