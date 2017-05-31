@@ -1,0 +1,2 @@
+class localusers::groups::wheel {
+ }
